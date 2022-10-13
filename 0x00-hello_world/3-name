@@ -1,2 +1,1 @@
-#!/bin/bsh
 gcc -o cisfun $CFILE
